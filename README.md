@@ -24,6 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
-
-# Output 
+# Result:
+![Screenshot 2023-05-25 105131](https://github.com/Darshans05/Correlation_Regression/assets/115534676/628e3bcb-af0c-40b6-a894-18c32e969f27)
+# Output :
+Hence, the given data has been analysed using correlation and regression. 
